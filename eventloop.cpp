@@ -1,4 +1,3 @@
-#pragma once
 #include <functional>
 #include <time.h>
 #include <iostream>
